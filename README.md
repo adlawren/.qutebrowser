@@ -22,6 +22,6 @@ git clone https://github.com/adlawren/qutebrowser-config.git ~/.config/qutebrows
   * J -> E (scroll down)
   * K -> U (scroll up)
   * L -> I (scroll right)
-  * N -> L (iterate through search results)
+  * N -> K (iterate through search results)
   * S -> J (misc. settings operations)
   * U -> H (undo tab closure)
