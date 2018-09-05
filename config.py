@@ -15,6 +15,6 @@ def remap_in_all_modes(remappings):
                 new_dict[new_key] = c.bindings.default[mode][key]
         c.bindings.default[mode] = new_dict
 
-remappings = {'i': 's', 'h': 'n', 'j': 'e', 'k': 'u', 'l': 'i', 'n': 'l', 's': 'j', 'u': 'h', 'I': 'S', 'H': 'N', 'J': 'E', 'K': 'U', 'L': 'I', 'N': 'L', 'S': 'J', 'U': 'H'}
+remappings = {'i': 's', 'h': 'n', 'j': 'e', 'k': 'u', 'l': 'i', 'n': 'k', 's': 'j', 'u': 'h', 'I': 'S', 'H': 'N', 'J': 'E', 'K': 'U', 'L': 'I', 'N': 'K', 'S': 'J', 'U': 'H'}
 
 remap_in_all_modes(remappings)

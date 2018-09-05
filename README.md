@@ -10,6 +10,10 @@ Clone repo:
 
 git clone https://github.com/adlawren/qutebrowser-config.git ~/.config/qutebrowser
 
+## Notes:
+- On MacOS, the config folder location is ~/.qutebrowser, not ~/.config/qutebrowser
+
+
 ## Overview of Configuration
 
 * Remapped some of the default keybindings to increase compatibility with the Colemak keyboard layout, and some additional rearranging
