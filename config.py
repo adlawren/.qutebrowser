@@ -1,3 +1,5 @@
+c.auto_save.session = True
+
 def remap_in_all_modes(remappings):
     for mode in c.bindings.default:
         new_dict = {}

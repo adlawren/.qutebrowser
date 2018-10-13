@@ -3,10 +3,5 @@
 
 config_version: 2
 settings:
-  aliases:
-    global:
-      q: quit
-      w: session-save
-      wq: quit --save
   auto_save.session:
     global: true
