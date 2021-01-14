@@ -20,3 +20,5 @@ def remap_in_all_modes(remappings):
 remappings = {'i': 's', 'h': 'n', 'j': 'e', 'k': 'u', 'l': 'i', 'n': 'k', 's': 'j', 'u': 'h', 'I': 'S', 'H': 'N', 'J': 'E', 'K': 'U', 'L': 'I', 'N': 'K', 'S': 'J', 'U': 'H'}
 
 remap_in_all_modes(remappings)
+
+c.fonts.web.size.default = 20
